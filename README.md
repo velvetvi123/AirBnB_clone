@@ -1,2 +1,3 @@
-# AirBnB_clone
 This is a project from alx where i have to clone the Airbnb web application
+The command interpreter is a crucial part of the Airbnb clone project. It is a tool that allows users to interact with the application's data model through a command-line interface (CLI). With this interpreter, users can create, read, update, and delete various objects (such as users, places, cities, etc.) within the application. This CLI is particularly useful for development and debugging purposes.
+Once the interpreter is running, you will see a prompt where you can enter commands. The basic usage includes commands to create, show, update, and delete objects, as well as manage the application state.
